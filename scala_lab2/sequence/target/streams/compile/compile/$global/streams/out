@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/adelinazagitova/Desktop/scala/sequence/src/main/scala/Main.scala:3:18: not found: type Prog[0m
+[0m[[0m[31merror[0m] [0m[0m    val p1 = new Prog(1,3);[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/adelinazagitova/Desktop/scala/sequence/src/main/scala/Main.scala:4:18: not found: type Prog[0m
+[0m[[0m[31merror[0m] [0m[0m    val p2 = new Prog(2,3);[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/adelinazagitova/Desktop/scala/sequence/src/main/scala/Main.scala:5:18: not found: type Prog[0m
+[0m[[0m[31merror[0m] [0m[0m    val p3 = new Prog(2,2);[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/adelinazagitova/Desktop/scala/sequence/src/main/scala/Main.scala:11:18: not found: type Prog[0m
+[0m[[0m[31merror[0m] [0m[0m    val p6 = new Prog(1,3)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/adelinazagitova/Desktop/scala/sequence/src/main/scala/Main.scala:12:18: not found: type Prog[0m
+[0m[[0m[31merror[0m] [0m[0m    val p7 = new Prog(2,4)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
